@@ -1,0 +1,92 @@
+select_all: 모두 선택
+clear_all: 모두 취소
+clear_selections: 초기화
+variable_hint: 먼저 '%field' 항목을 선택해 주시기 바랍니다.
+no_data_hint: No options available because of filters above
+download_headline: Download Headline CSV
+download_headline_title: Download headline data as CSV
+download_source: 원본 CSV 내려받기
+download_source_title: 원본 CSV 내려받기
+download_chart: 그래프 CSV 내려받기
+download_table: 표 CSV 내려받기
+download_csv: CSV 내려받기
+download_csv_title: CSV 내려받기
+download_chart_image: 그래프 이미지 내려받기
+download_chart_image_title: 그래프 이미지 내려받기
+source: 출처
+geographical_area: 지역
+unit_of_measurement: 세부지표
+graph_footer_unit: 단위
+footnote: 주석
+units_type: 구분
+share_facebook: 페이스북 공유 새 창 열기
+share_twitter: 트위터 공유 새 창 열기
+share_band: 밴드 공유 새 창 열기
+share_kakaotalk: 카카오톡 공유 새 창 열기
+share_linkedin: 링크드인 공유 새 창 열기
+share_qrcode: QR코드
+share_citation: 인용
+download_source_sdmx: Download Source SDMX
+download_source_sdmx_title: Download source data as SDMX
+download_geojson: Download GeoJSON
+download_geojson_title: Download as GeoJSON
+# A shorter version of the "Unit" label.
+unit: Unit
+# The label of a widget that allows the user to change the series that is being represented in a data visualization
+series: Series
+dataset_size_warning: 너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.
+view_indicator_list: View this goal's indicator list
+# A label describing a section of the page that allows the user to filter data by sub-category
+sub_categories: 데이터 세분화
+series_help: 타 지역 지표값을 보려면 해당 항목을 선택해 주십시오.
+chart: 그래프
+table: 표
+map: 지도
+loading_map: 지도를 불러오고 있습니다.
+national_metadata: 지표 정의
+global_metadata: 글로벌 메타데이터
+edit_data: 데이터 수정
+edit_metadata: 메타데이터 수정
+sub_categories_show: "Show sub-categories:"
+legend_help: Click on the legend to remove individual lines from the chart.
+national_metadata_blurb: 
+global_metadata_blurb: 이 표는 UN 통계 위원회에서 정의한 SDG 지표에 대한 메타데이터입니다.
+  <a href="https://unstats.un.org/sdgs/metadata/">전체 글로벌 메터데이터</a>
+  는 UN 통계국에서 제공합니다.
+# A button for editing configuration
+edit_configuration: Edit Configuration
+# A message that displays when a chart has no data to display because of the
+# user's choices.
+data_not_available: This data is not available. Please choose alternative data to display.
+# A message that is announced when there is no data on the chart/table
+announce_data_not_available: Chart and table shows no data.
+# A message that is announced when the data is added to the chart/table
+announce_data_added: Chart and table updated to include data.
+# A message that is announced when the data is removed from the chart/table
+announce_data_removed: Chart and table updated to exclude data.
+# A message that points out an alternative display for visual data
+data_tabular_alternative: For tabular data alternative see Table tab.
+# Instructions for navigating data with a keyboard
+data_keyboard_navigation: Press enter to browse data points with left and right arrow keys.
+# Description of the "plot legend" which displays beneath charts
+plot_legend_description: "Plot legend: list of lines included in chart"
+# Common annotation displayed on graphs for the 2030 target.
+annotation_2030_target: 2030 Target
+# Label describing an annotation on a chart/graph.
+chart_annotation: Chart annotation
+# Description of the year slider on maps.
+map_year_slider: Year slider
+# Description of a search field on maps.
+map_search: Search
+# Description of a button that hides the search field on maps.
+map_search_hide: Hide search
+# Description of a button that shows the search field on maps.
+map_search_show: Show search
+# Instructions for using the data table columns for sorting.
+table_column_sort: Click to sort by this column
+# Label describing the status of an indicator
+status: Indicator status
+# Label describing the "tags" for an indicator
+tags: Tags
+previous: Previous indicator
+next: Next indicator

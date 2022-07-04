@@ -1,0 +1,407 @@
+# 지표1
+category: 구분
+Category: 구분
+BLSP(Basic_Livelihood_Security_Program)_take-up_rate: 국민기초생활보장 수급률
+Old-age_pension_take-up_rate: 기초(노령)연금 수급률
+Basic_drinking_water_services: 기초 식수 서비스
+Basic_sanitation_services: 기초 위생 서비스
+Sex: 성별
+Age: 연령별
+0~19: 20세 미만
+20~29: 20~29
+30~39: 30~39
+40~49: 40~49
+50~59: 50~59
+60~69: 60~69
+70~79: 70~79
+80~: 80세 이상
+Male: 남성
+Female: 여성
+dead_or_missing: 사망 또는 실종자
+directly_affected: 직접영향인구
+
+# 지표2
+Residential_area: 거주지역별
+Income_classes: 소득수준별
+Suburban(Dong): 동
+Rural(Eup/Myeon): 읍/면
+Lower: 하
+Lower_middle: 중하
+Middle: 중
+Upper_middle: 중상
+Upper: 상
+Cultivation_size: 경지규모별
+0~0.5_ha: ① 0~0.5 ha
+0.5~1.0_ha: ② 0.5~1.0 ha
+1.0~1.5_ha: ③ 1.0~1.5 ha
+1.5~2.0_ha: ④ 1.5~2.0 ha
+2.0~3.0_ha: ⑤ 2.0~3.0 ha
+3.0~5.0_ha: ⑥ 3.0~5.0 ha
+5.0~7.0_ha: ⑦ 5.0~7.0 ha
+7.0~10.0_ha: ⑧ 7.0~10.0 ha
+10.0_ha~: ⑨ 10.0 ha~
+Agriculture_orientation_index_for_government_expenditures: 농업지향지수
+Agriculture_share_of_Government_Expenditure(%): 정부지출 중 농업지출 비율(%)
+Agriculture_value_added_share_of_GDP(%): GDP 중 농업부가가치 비율(%)
+overweight: 과체중
+underweight: 저체중
+
+# 지표3
+Birth_location: 분만장소별
+General_hospital: 종합병원
+Hospital: 병원
+Clinic: 의원
+Midwifery_units: 조산원
+Medical_center: 보건의료원
+Home: 자택
+Delievery_option: 분만방법별
+Natural_birth: 자연분만
+C-section: 제왕절개 분만
+Diseases: 감염병별
+Leprosy: 한센병
+Rabies: 공수병
+Dengue: 뎅기열
+Cause_of_death: 사망원인별
+Cancer: 암
+Diabetes: 당뇨
+Cardiovascular_diseases: 심혈관계 질환
+Chronic_respiratory_diseases: 호흡기 질환
+Alcohol: 주종별
+01_Takju: ① 탁주
+02_Yakju: ② 약주
+03_Cheongju: ③ 청주
+04_Beer: ④ 맥주
+05_Wine: ⑤ 과실주
+06_Distilled soju: ⑥ 증류식 소주
+07_Diluted soju: ⑦ 희석식 소주
+08_Whiskey: ⑧ 위스키
+09_Brandy: ⑨ 브랜디
+10_Sprits: ⑩ 일반 증류수
+11_Liquor: ⑪ 리큐르
+12_Others: ⑫ 기타 주류
+Household_expenditure_on_health: 가구지출 및 소득대비지출
+Vaccine: 백신별
+DTP3: DTP3
+MMR: MMR
+PCV3: PCV3
+Type_of_occupation: 직종별
+Nurse: 간호사
+Doctor: 의사
+Dentist: 치과의사
+Oriental_doctor: 한의사
+Pharmacist: 약사
+Physical_therapist: 물리치료사
+Occupational_therapist: 작업치료사
+Social_worker: 사회복지사
+Midwife: 조산사
+IHR_Capacity: IHR 역량
+1_year_old: 만 1세
+2_years_old: 만 2세
+3_years_old: 만 3세
+6_years_old: 만 6세
+
+# 지표4
+Grade: 학년
+Middle_school: 중학교
+Elementary_school_2nd/3rd: 초등학교 말
+Subjects: 과목
+Mathematics: 수학
+Reading: 읽기
+Development_index: 분야별
+Cognitive_development: 인지발달
+Language_development: 언어발달
+Skill: 기술유형
+Education_indicators: 형평성 영역
+Gender_parity_index_for_participation_rate_in_organized_learning: 초등입학1년전 학습참여비율
+Native_parity_index: 원주민 불평등지수
+Language_test_parity_index: 언어테스트 불평등지수
+Gender_parity_index: 성 불평등지수
+Low_to_high_socio-economic_parity_status_index: 사회경제적 불평등지수
+Rural_to_urban_parity_index: 도농 불평등지수
+Type_of_skill: 능력별
+Literacy: 문해력
+Numeracy: 수리력
+School_environment_indicators: 학교 환경 요소
+Computer: 컴퓨터
+Drinking_water: 식수
+Electricity: 전기
+Hand-washing_facilities: 손씻기 시설
+Internet: 인터넷
+Single-sex_basic_sanitation_facilities: 성별 위생시설
+School: 교육수준별
+Elementary_school: 초등학교
+High_school: 고등학교
+
+# 지표5
+National_parliaments: 국회
+Local_assembly: 지방의회
+Device_type: 장치유형별
+Mobile_devices: 모바일기기
+Smartphone: 스마트폰
+Feature_phone: 이동전화
+overarching_legal_frameworks_and_public_life: 법적 프레임워크와 공공 생활에 대한 개괄
+violence_against_women: 여성에 대한 폭력
+employment_and_economic_benefits: 고용과 경제적 혜택
+marriage_and_family: 결혼과 가족
+Sexual_violence_type: 성폭력 유형
+Sexual_violence_involving_physical_contact: 신체적 접촉을 수반한 성폭력
+Obscene_phone_calls: 음란전화
+Illegal_filming: 불법촬영
+Distribution_of_illegally_filmed_material: 불법촬영물 유포
+Sexual_exposure: 성기노출
+Sexual_harassment: 성희롱
+
+
+# 지표6
+Proportion_of_population_using_safely_managed_sanitation_services: 안전하게 관리되는 위생서비스시설을 이용하는 인구 비율
+Proportion_of_population_practicing_open_defecation: 노상배변 인구 비율
+Wastewater_generation: 폐수발생량
+Sewage_generation: 유입하수량
+Excretions: 분뇨
+Underground_water: 지하수
+Open_water_area: 개방수역
+River: 강
+Industries: 공업
+Agriculture(ISIC4_A01_A0210_A0322): 농업(ISIC4 A01 A0210 A0322)
+Services(ISIC4_G_to_T): 서비스업(ISIC4 G to T)
+Total(no_breakdown): 기타(분류 안됨)
+
+# 지표7
+Rural: 농촌
+Urban: 도시
+
+# 지표8
+Tonnes_per_capita: 1인당 국내물질소비량(톤)
+Kilograms_per_constant_2010_USD: GDP당 국내물질소비량(kg/USD)
+Tonnes: 국내물질소비량(톤)
+BIM: 바이오매스
+COL: 석탄
+CPR: 작물잔해
+CRO: 작물
+FEO: 철광석
+FOF: 화석연료
+GAS: 천연가스
+GBO: 사료작물
+MEO: 금속광석
+NFO: 비금속광석
+NMA: 산업/농업 비금속광물
+NMC: 건설 비금속광물
+NMM: 비급속광물
+PET: 석유
+RAW: RAW
+WCH: 자연수확
+WOD: 나무
+Banking_service: 은행서비스별
+ATMs: ATM 개수
+Commercial_bank_branches: 상업은행 지점수
+Commitments: 약정액
+Disbursement: 집행액
+
+# 지표9
+Domestic_Passenger: 국내 승객량
+International_Passenger: 국제 승객량
+Domestic_Freight: 국내 화물량
+International_Freight: 국제 화물량
+Mode_of_transportation: 교통수단별
+Rail: 철도
+Subway: 지하철
+Sky_roads: 공로
+Shipping: 해상운송
+Air_transport: 항공운수
+
+# 지표10
+Reasons: 이유별
+01_Sex: ① 남자 또는 여자라는 이유로
+02_Age: ② 나이가 많거나 적다는 이유로
+03_Socio-Eoconomic_status: ③ 직업이나 소득 등 경제적 지위를 이유로
+04_Forms_of_employment: ④ 비정규직 등 고용형태를 이유로
+05_Educational_background: ⑤ 학력이나 학벌을 이유로
+06_Physical_condition: ⑥ 키, 몸무게, 용모 등 신체조건을 이유로
+07_Political_opinion: ⑦ 사상 또는 정치적인 입장의 차이로
+08_Marital status_such_as_being_single/married/divorced/widowed: ⑧ 미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
+09_Geographic_location_or_Place_of_residence: ⑨ 출신지역을 이유로
+10_Marital_status_such_as_being_pregnant/with_or_without_children: ⑩ 임신 또는 출산을 했다는 이유로
+11_Health_status: ⑪ 질병 및 병력을 가지고 있다는 이유로
+12_Religion: ⑫ 종교를 이유로
+13_Disability: ⑬ 장애를 이유로
+14_Ethnicity/Colour/Language/Migration_status: ⑭ 인종, 피부색, 출신국가, 출신민족을 이유로
+15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: ⑮ 한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
+G1_Regulatory_capital_to_assets: G1_총자산 대비 기본자본(Tier 1) 비율
+G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2_위험가중자산 대비 기본자본(Tier 1) 비율
+G3_Non-performing_loans_net_of_provisions_to_capital: G3_총자본 대비 부실채권충당금 비율
+G4_Non-performing_loans_to_total_gross_loans: G4_총채권 대비 부실채권 비율
+G5_Return_on_assets: G5_총자산순이익률
+G6_Liquid_assets_to_short_term_liabilities: G6_단기부채 대비 유동자산 비율
+G7_Net_open_position_in_foreign_exchange_to_capital: G7_총자본 대비 외환종합포지션 비율
+Name_of_international_institution: 국제기구명
+Proportion_of_members_of_developing_countries_in_international_organizations: 개도국 회원국 비율
+Proportion_of_voting_rights_of_developing_countries_in_international_organizations: 개도국 투표권 비율
+Payment: 취업소개료 지불여부
+1_Yes: 지불함
+2_No: 지불한 적 없음
+Recruitment_cost: 지불금액별
+-150mKRW: 15만원 미만
+150-300mKRW: 15만원-30만원
++300mKRW: 30만원 이상
+N/A: 해당없음
+Refugees_request: 난민신청현황
+Refugees_recognized: 난민인정자 현황
+Type_of_product: 유형별
+Agricultural_products: 농산품
+Total_or_no_breakdown: 전체 혹은 감면없음
+Arms: 무기
+Clothing: 의류
+Industrial_products: 공산품
+Oil: 기름
+Textiles: 섬유
+Market_income: 시장소득
+Disposable_income: 처분가능소득
+
+# 지표11
+01_Urban: 수도권
+02_Suburban: 광역시 등
+03_Rural: 도지역
+Access_point: 접근지별
+Transportation: 교통수단별
+Time(min): 소요시간별(분 이내)
+Schools: 교육시설
+Medical_facilities: 의료시설
+Sale_facilities: 판매시설
+Metropolitan_Transportation_Facilities: 광역교통시설
+Public_medical_facilities: 공공의료시설
+Hospital/Clinic: 병·의원
+Large_stores: 대규모점포
+Traditional_market: 전통시장
+2.Train_station: 2.철도역
+1.Bus_terminal: 1.버스터미널
+3.Airport: 3.공항
+Car: 승용차
+Public_transportation/walking: 대중교통/도보
+Municipal_waste: 생활폐기물
+Industrial_municipal_waste: 사업장 생활계폐기물
+Construction_waste: 건설폐기물
+Industrial_emission_facilities_waste: 사업장 배출시설계폐기물
+Seoul: 서울
+Busan: 부산
+Daegu: 대구
+Incheon: 인천
+Gwangju: 광주
+Daejeon: 대전
+Ulsan: 울산
+Sejong: 세종
+Gyeonggi: 경기
+Gangwon: 강원
+Chungbuk: 충북
+Chungnam: 충남
+Jeonbuk: 전북
+Jeonnam: 전남
+Gyeongbuk: 경북
+Gyeonnam: 경남
+Jeju: 제주
+Sexual_violence: 성폭력
+Robbery: 강도
+Assault: 폭행
+Harassment: 괴롭힘
+
+# 지표12
+Countries_with_policies_instruments_and_mechanism_in_place_for_sustainable_consumption_and_production: SCP 정책 제도적 기제 보유
+Countries_with_policy_instrument_for_sustainable_consumption_and_production: SCP 정책수단 보유
+Countries_with_sustainable_consumption_and_production_(SCP)_national_action_plans_or_SCP_mainstreamed_as_a_priority_or_target_into_national_policies: SCP 이행계획보유 및 정책 우선순위
+
+01_Average: 01 평균
+02_Special_city: 02 특별시
+03_Metropolitan_city: 03 광역시
+04_Small-Medium_sized_cities: 04 중소도시
+05_Provinces: 05 농어촌
+
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste_and_other_chemicals: 바젤 협
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste_and_other_chemicals: 몬트리올 의정서
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Rotterdam_Convention_on_hazardous_waste_and_other_chemicals: 로트르담 협정
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste_and_other_chemicals: 스톡홀름 협정
+
+Waste_disposed_by_type_of_treatment(tonnes/day): 매립
+Waste_incinerated_by_type_of_treatment(tonnes/day): 소각
+Waste_recycled_by_type_of_treatment(tonnes/day): 재활용
+Etc._(tonnes/day): 기타
+
+Industrial_waste: 사업장배출시설계폐기물
+Domestic_waste: 생활폐기물
+Construction_waste: 건설폐기물
+Specified_waste: 지정폐기물
+
+First_publication: 최초발간
+Accumulated_publication: 누적발간
+
+# 지표 13
+
+
+# 지표 14
+Production: 생산량
+Production_amount_of_money: 생산금액
+Fisheries_type: 어업별
+Littoral_fishing: 일반해면어업
+Marine_aquaculture: 천해양식어업
+Deep_sea_fishing: 원양어업
+Freshwater_fishing: 내수면어업
+Average_proportion_of_Marine_Key_Biodiversity_Areas_(KBAs)_covered_by_protected_areas_(%): 보호구역이 적용되는 해양핵심생물다양성지역 평균 비율
+Coverage_of_protected_areas_in_relation_to_marine_areas_(Exclusive_Economic_Zones)_(%): 해양면적 대비 보호구역 면적 비율
+Protected_marine_area_(Exclusive_Economic_Zones)_(square_kilometres): 보호되는 해양면적
+Score_for_the_ratification_of_and_accession_to_UNCLOS_and_its_two_implementing agreements: UNCLOS 및 두 가지 이행 협약 비준 및 가입 점수
+Score_for_the_implementation_of_UNCLOS_and_its_two_implementing_agreements: UNCLOS 및 두 가지 이행 협약 이행 점수
+       
+# 지표15
+Freshwater: 담수
+Land: 육상
+Above-ground_biomass_stock_in_forest_(tonnes_per_hectare): 산림 내 지상부 바이오매스 총량(헥타르 당 톤)
+Forest_area_under_an_independently_verified_forest_management_certification_scheme_(thousands_of_hectares): 산림경영인증 면적
+Forest_area_annual_net_change_rate_(%): 산림면적 연간 순 변화율(%)
+Proportion_of_forest_area_under_a_long-term_management_plan_(%): 장기산림경영계획에 포함된 산림면적 비율(%)
+Proportion_of_forest_area_within_legally_established_protected_areas_(%): 보호림 비율(%)
+Countries_that_are_parties_to_the_Nagoya_Protocol_(1_=_YES;_0_=_NO): 나고야의정서 채택국가
+Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number): 식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
+Countries_commitments_to_global_conventions/_international_agreements_: 법 규정 법률구비여부
+National_Biodiversity_Strategy_and_Action_Plan_(NBSAP)_targets_alignment_to_Aichi_Biodiversity_target_9: 아이치생물다양성 목표9 연계목표
+
+
+# 지표 16
+Not_indicated: 불상
+Property_crime: 재산범죄
+Violence_crime: 폭력범죄
+Public_Services: 공공서비스 유형별
+Public_hearing: 공청회·청문회
+Participatory_budgeting: 주민참여예산
+Community_center: 주민자치센터
+Licensing_service: 인허가 서비스
+Online_official_documents: 인터넷 민원발급
+Tax_affair_service: 세무 서비스
+Police_service: 경찰 서비스
+Fire_administration_service: 소방 서비스
+Education_service: 교육 서비스
+Health_service: 보건 서비스
+Satisfaction: 만족도
+1_(Not_at_all): 1 전혀 만족하지 않는다
+2_(Not_that_much): 2 별로 만족하지 않는다
+3_(Normal): 3 보통이다
+4_(A_little_bit): 4 약간 만족한다
+5_(Very_satisfactory): 5 매우 만족한다
+Experiences: 경험여부
+Experienced: 경험했다
+No_experienced: 경험하지 않았다
+Experience_of_physical_punishment: 체벌 경험
+Experience_of_hearing_insulting_words: 욕설 경험
+60~ : 60세 이상
+
+# 지표 17
+most-favoured-nation_status: 최혜국 지위
+preferencial_status: 특혜지위
+Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_: 공여국이 수원국 주도의 성과체계 및 기획수단을 활용하는 정도(공여국 자료)
+Proportion_of_project_objectives_of_new_development_interventions_drawn_from_country-led_result_frameworks_-_data_by_provider_(%): 공여국 사업 중 수원국 주도의 성과체계로부터 도출된 새로운 개발협력 사업 비중(공여국 자료)
+Proportion_of_results_indicators_drawn_from_country-led_results_frameworks_-_data_by_provider_(%): 수원국 주도의 성과체계로부터 도출된 결과 지표
+Proportion_of_results_indicators_which_will_be_monitored_using_government_sources_and_monitoring_systems_-_data_by_provider_(%): 수원국의 자원과 평가 체계를 활용하여 모니터링할 결과지표의 비율(공여국 자료)
+Countries_with_national_statistical_plans_with_funding_from_Government_(1_=_YES;_0_=_NO): 국가통계발전계획 재정지원여부
+Countries_with_national_statistical_plans_that_are_fully_funded_(1_=_YES;_0_=_NO): 국가통계발전계획 완전지원여부
+Countries_with_national_statistical_plans_that_are_under_implementation_(1_=_YES;_0_=_NO): 국가통계발전계획 현재이행여부
+Countries_with_birth_registration_data_that_are_at_least_90_percent_complete_(1_=_YES;_0_=_NO): 90%이상 출생등록
+Countries_that_have_conducted_at_least_one_population_and_housing_census_in_the_last_10_years_(1_=_YES;_0_=_NO): 인구주택총조사실시
+Countries_with_death_registration_data_that_are_at_least_75_percent_complete_(1_=_YES;_0_=_NO): 75%이상 사망등록
+
