@@ -1,0 +1,19 @@
+skip_link: 'Hopp til hovedinnhold'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Alfa'
+disclaimer: 'Dette er et utviklingsnettsted. Vi ønsker <a href="mailto:%email_contacts.suggestions">tilbakemeldinger</a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 mål for å transformere vår verden'
+high_contrast: 'Høy kontrast'
+default_contrast: 'Standard kontrast'
+enable_high_contrast: 'Skru på høy kontrast'
+disable_high_contrast: 'Skru av høy kontrast'
+toggle_menu: Menybryter. Klikk for å utvide eller skjule menyen.
+toggle_search: Søk veksle. Klikk for å utvide eller skjule søkefeltet.
+internet_explorer_message_title: Denne nettleseren støttes ikke lenger
+internet_explorer_message: Vi har oppdaget at du bruker Internet Explorer for å besøke
+  denne nettsiden. Internet Explorer fases nå ut av Microsoft. Som et resultat av
+  dette støtter ikke lenger denne nettsiden noen versjon av Internet Explorer. Noen
+  funksjoner på denne siden vil ikke fungere. Du bør bruke en moderne nettleser som
+  Edge, Chrome, Firefox eller Safari. Hvis du har problemer med å installere eller
+  få tilgang til en annen nettleser, vennligst kontakt IT-støtteteamet ditt.

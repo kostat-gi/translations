@@ -1,0 +1,19 @@
+alpha: Alpha
+disclaimer: Ceci est un site web en développement. Nous apprécions vos <a href="mailto:%email_contacts.suggestions">commentaires</a>.
+skip_link: Passer au contenu principal
+tag_line: 17 objectifs pour transformer notre monde
+high_contrast: 'contraste élevé'
+default_contrast: 'contraste standard'
+enable_high_contrast: Activer le contraste élevé
+disable_high_contrast: Désactiver le contraste élevé
+toggle_menu: Interrupteur du menu. Cliquez pour développer ou réduire le menu.
+toggle_search: Interrupteur de la barre. Cliquez pour développer ou réduire la barre
+  de recherche.
+internet_explorer_message_title: Ce navigateur Internet n'est plus pris en charge
+internet_explorer_message: Nous avons détecté que vous utilisez Internet Explorer
+  pour visiter ce site. Internet Explorer est en train d'être abandonné par Microsoft.
+  Par conséquent, ce site Web ne prend plus en charge aucune version d'Internet Explorer.
+  Certaines fonctionnalités de ce site ne fonctionneront pas. Vous devez utiliser
+  un navigateur moderne tel que Edge, Chrome, Firefox ou Safari. Si vous avez des
+  difficultés à installer ou à accéder à un autre navigateur, veuillez contacter votre
+  équipe d'assistance informatique.

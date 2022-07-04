@@ -1,0 +1,13 @@
+alpha: Alpha
+disclaimer: 这是一个发展中的网站。欢迎您向我们发送 <a href="mailto:%email_contacts.suggestions">反馈意见</a>。
+skip_link: 跳到主要内容
+tag_line: 变革世界的17个目标
+high_contrast: '高对比度'
+default_contrast: '默认对比'
+enable_high_contrast: 启用高对比度
+disable_high_contrast: 禁用高对比度
+toggle_menu: 菜单切换。单击以展开或折叠菜单。
+toggle_search: 搜索切换。单击可展开或折叠搜索栏。
+internet_explorer_message_title: 该互联网浏览器已不再被支持
+internet_explorer_message: 我们检测到您使用的是IE浏览器来访问本网站。Internet Explorer现在正被微软逐步淘汰。因此，本网站不再支持任何版本的Internet
+  Explorer。本网站的一些功能将无法使用。你应该使用一个现代浏览器，如Edge、Chrome、Firefox或Safari。如果你在安装或访问不同的浏览器时遇到困难，请联系你的IT支持团队。
