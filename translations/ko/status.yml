@@ -1,0 +1,22 @@
+reporting_status: 데이터 현황
+overall_reporting_status: 총괄 현황
+reported_online: 이용가능
+reported: 
+complete: 이용가능
+notapplicable: 데이터 수집중
+statistics_in_progress: Statistics in progress
+exploring_data_sources: 제공예정
+not_applicable: 데이터 수집중
+# Describing a section where the status is reported for each goal
+status_by_goal: 지표 영역별 현황
+status_by_field: Status by %field
+disaggregation_status: Disaggregation status
+disaggregation_status_overall: Overall disaggregation status
+disaggregation_status_complete: Fully disaggregated
+disaggregation_status_inprogress: Partially disaggregated
+disaggregation_status_notstarted: Not disaggregated
+disaggregation_status_notapplicable: Out of scope
+disaggregation_status_by_field: Disaggregation by %field
+not_specified: Not specified
+description: Reporting status provides an overview of how much Sustainable Development
+  Goal (SDG) data %name reports.
