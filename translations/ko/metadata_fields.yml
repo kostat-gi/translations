@@ -21,6 +21,10 @@ statistics_name: 자료출처
 indicator_sort_order: 지표 정렬 번호
 national_data_update_url: 데이터 갱신 이력
 data_download_date: 자료다운일자
+data_provision_year: 자료제공년도
+data_preparation_year: 자료작성년도
+data_generation_cycle: 자료생성주기
+update_cycle: 업데이트시기
 #A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: 측   정
 #A label describing information - the geographical area covered by a dataset
