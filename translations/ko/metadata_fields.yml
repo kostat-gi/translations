@@ -1,10 +1,11 @@
 #A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-other_info: Other information
+other_info: 기타사항
 #A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 지표분류
 #A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: 단   위
-computation_coverage: 범   위
+computation_units: 공표단위
+computation_coverage: 공표범위
+
 #A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 메타데이터
 #A label describing information - the numeric code for a particular indicator
