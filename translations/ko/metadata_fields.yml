@@ -21,7 +21,7 @@ data_name: 데이터명
 statistics_name: 자료출처
 indicator_sort_order: 지표 정렬 번호
 national_data_update_url: 데이터 갱신 이력
-data_download_date: 자료다운일자/<br>
+data_download_date: 자료다운일자/<br>자료갱신일
 data_provision_year: 자료제공년도
 data_preparation_year: 자료작성년도
 data_generation_cycle: 자료생성주기
