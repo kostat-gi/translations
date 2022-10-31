@@ -57,7 +57,8 @@ global_metadata_blurb: 이 표는 UN 통계 위원회에서 정의한 SDG 지표
 edit_configuration: Edit Configuration
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: This data is not available. Please choose alternative data to display.
+data_not_available: 지역이 선택되지 않았습니다. 지역을 선택하여주시기 바랍니다.
+#data_not_available: This data is not available. Please choose alternative data to display.
 # A message that is announced when there is no data on the chart/table
 announce_data_not_available: Chart and table shows no data.
 # A message that is announced when the data is added to the chart/table
