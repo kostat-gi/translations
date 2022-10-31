@@ -2,7 +2,7 @@ select_all: 모두 선택
 clear_all: 모두 취소
 clear_selections: 초기화
 variable_hint: 먼저 '%field' 항목을 선택해 주시기 바랍니다.
-no_data_hint: '시군구'가 포함된 '시도'를 선택해 주시기 바랍니다.
+no_data_hint: 시군구가 포함된 시도를 선택해 주시기 바랍니다.
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: 원본 CSV 내려받기
