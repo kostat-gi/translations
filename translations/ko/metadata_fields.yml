@@ -3,8 +3,8 @@ other_info: 기타사항
 #A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 지표분류
 #A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: 공표단위
-computation_coverage: 공표범위
+computation_units: 단   위
+computation_coverage: 지역범위
 
 #A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 메타데이터
@@ -18,16 +18,16 @@ indicator_definition: 정   의
 indicator_importance: 의   의
 #A label describing information - the name of a particular indicator
 data_name: 데이터명
-statistics_name: 자료출처
+statistics_name: 원출처
 indicator_sort_order: 지표 정렬 번호
-national_data_update_url: 데이터 갱신 이력
+national_data_update_url: 자료 갱신일
 data_download_date: 자료다운일자/<br>자료갱신일
 data_provision_year: 자료제공년도
-data_preparation_year: 자료작성년도
-data_generation_cycle: 자료생성주기
+data_preparation_year: 작성연도
+data_generation_cycle: 작성주기
 update_cycle: 업데이트시기
 #A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: 측   정
+computation_calculations: 산   정
 #A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: 지역적 범위
 national_indicator_available: 지표 가용성
