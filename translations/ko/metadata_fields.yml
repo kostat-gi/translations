@@ -27,7 +27,7 @@ data_preparation_year: 작성연도
 data_generation_cycle: 작성주기
 update_cycle: 업데이트시기
 #A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: 산   정
+computation_calculations: 산   식
 #A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: 지역적 범위
 national_indicator_available: 지표 가용성
