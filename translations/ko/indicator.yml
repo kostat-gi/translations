@@ -43,7 +43,7 @@ chart: 그래프
 table: 표
 map: 지도
 loading_map: 지도를 불러오고 있습니다.
-national_metadata: 지표 정의
+national_metadata: 지표 설명
 global_metadata: 글로벌 메타데이터
 edit_data: 데이터 수정
 edit_metadata: 메타데이터 수정
