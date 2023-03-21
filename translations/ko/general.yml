@@ -24,7 +24,7 @@ targets_and_indicators: Targets and indicators
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
-site_title: 수도권 광역지표 온라인 서비스
+site_title: 수도권 광역지표
 back_to_top: Back to top
 footer_notice: 이 웹사이트는 경인지방통계청에서 운영하는 수도권 광역지표 온라인 서비스입니다.<br>13809 경기도 과천시 관문로 47(중앙동1) 정부과천청사 5동 7층&nbsp; &nbsp; 청사대표전화： 02-2110-7600
 piece: 개
